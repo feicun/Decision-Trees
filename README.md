@@ -1,5 +1,7 @@
 **Construct a decision tree, and then using it to classify instances from several different datasets.**
 
+The arff files are test data.
+
 Note: Calculating the precision, recall and accuracy for multi-class is a little slow, please be patient.
 
 Validation Steps:
